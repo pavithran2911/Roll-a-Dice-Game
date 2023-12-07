@@ -20,14 +20,12 @@ Welcome to the Ultimate Dice Rolling Game! Roll the dice, face various challenge
 
 Clone the repository to your local machine and run the game using Python.
 
-```bash
-git clone https://github.com/your-username/ultimate-dice-rolling-game.git
-cd ultimate-dice-rolling-game
-python main.py
+## How to Play
 
-How to Play
 Press Enter to roll the dice.
 Follow on-screen instructions to navigate through the game.
 Make strategic decisions, visit the shop, and aim to score 20 or more points to win.
-Contributing
+
+## Contributing
+
 If you'd like to contribute to the project, feel free to open an issue or submit a pull request.

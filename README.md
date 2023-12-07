@@ -32,7 +32,7 @@ Make strategic decisions, visit the shop, and aim to score 20 or more points to 
 
 In the Ultimate Dice Rolling Game, you embark on a thrilling adventure to score 20 or more points within a limited number of turns. Face various challenges, make strategic decisions, and discover unique features that make every playthrough exciting.
 
-## Features
+## Detailed Features
 
 ### Dynamic Dice Rolls
 
